@@ -1,0 +1,29 @@
+/*---------------------------- Login variables --------------------------*/
+
+email
+
+password
+
+/*------------------------ Main Sign Up Variables -----------------------*/
+
+firstName
+
+lastName
+
+SignUpEmail
+
+/*------------------------ Changes Variables Lets See -------------------*/
+
+Changes ho hi nhi rahi h...
+
+/*------------------------ Online change file for testing purpose --------------------*/
+
+Changes ho hi nhi rhe h...kya kare...
+
+/*---------------------------------- Ho to rahe hai changes ------------------------------*/
+
+mere end pe to ho rhe h changes...
+
+/*---------------------------------- Last attempt to check change ---------------------------*/
+
+Changed...
